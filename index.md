@@ -14,6 +14,7 @@ LAMP stack is a web service stack that consists of the Linux operating system, t
 You can use the following commands to install Ansible on Debian-based systems:
 
 _sudo apt-get update_
+
 _sudo apt-get install ansible_
 
 
