@@ -41,7 +41,7 @@ The playbook should install Apache, MySQL, and PHP (the LAMP stack) on server. K
 
 Now that you have successfully installed the LAMP stack to the server with Ansible, it is time to confirm that it actually exists. You can do that by just visiting the server address with a web browser.
 
-_Open a browser and visit http://ip address_
+_Open a browser and visit http://ip_address_
 
 ![image](https://user-images.githubusercontent.com/58585532/156119594-0d157db8-fb9b-4a9c-b6df-47ee5f5751d0.png)
 
